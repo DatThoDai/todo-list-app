@@ -9,14 +9,5 @@
   <li>Filter tasks by status</li>
 </ul>
 
-<details>
-  <summary>Watch Demo Video</summary>
-  
-
-  <iframe width="560" height="315" src="https://github.com/user-attachments/assets/d92487a2-e934-4a5e-b532-4c3e55565573" frameborder="0" allowfullscreen></iframe>
-  
-</details>
-
-
-
+https://github.com/user-attachments/assets/c423bf47-4739-4213-a20d-ececc75f211a
 
